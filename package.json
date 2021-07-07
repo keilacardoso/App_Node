@@ -1,0 +1,14 @@
+{
+  "name": "Node",
+  "version": "1.0.0",
+  "description": "Aprendendo sobre Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Keila Cardoso",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
